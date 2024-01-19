@@ -1,0 +1,112 @@
+# Creado por JorgeArtwero usando esta herramienta: https://www.toptal.com/developers/gitignore/api/linux,macos,windows,xcode,git
+# Editado por JorgeArtwero con los siguientes parámetros: https://www.toptal.com/developers/gitignore?templates=linux,macos,windows,xcode,git
+# Traducido por JorgeArtwero en CódigoX plebe!
+
+### Git ###
+# Creado por git para respaldos. Para desabilitar respaldos en Git:
+# $ git config --global mergetool.keepBackup false
+*.orig
+
+# Creado por git cuando se usa herramientas de mancomunión por conflictos
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+### Linux ###
+*~
+
+# archivos temporales que pueden ser creados si un proceso aún tiene una manivela abierta de un archivo borrado
+.fuse_hidden*
+
+# KDE directorio de preferencias
+.directory
+
+# Linux carpeta de basura que puede aparecer en cualquier partición o disco
+.Trash-*
+
+# .nfs archivos son creados cuando un archivo abierto es removido pero aún está siendo accesado
+.nfs*
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icono debe terminar con dos \r
+Icon
+
+
+# Uñapositivas
+._*
+
+# Archivos que podrían aparecer en la raíz de un volumen
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directorios potencialmente creados en AFP compartida remota
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### macOS Parche ###
+# iCloud generated files
+*.icloud
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Archivo tirado
+*.stackdump
+
+# Archivo config carpeta
+[Dd]esktop.ini
+
+# Cesto de reciclaje usado en compartidas de archivo
+$RECYCLE.BIN/
+
+# Windows archivos de Instalador
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows atajos
+*.lnk
+
+### Xcode ###
+## Ajustes de Usuario
+xcuserdata/
+
+## Xcode 8 y anteriores
+*.xcscmblueprint
+*.xccheckout
+
+### Xcode Parche ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# Fin de https://www.toptal.com/developers/gitignore/api/linux,macos,windows,xcode,git
+# Gracias TOPTALES!
