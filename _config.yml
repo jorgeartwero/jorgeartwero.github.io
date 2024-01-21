@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 plugins:
 - jemoji
+sass:
+    sass_dir: bienes/cse/salssas.scss
