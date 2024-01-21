@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 /*! ponle salsa chingado pinchi taquero */
-header .page-header {
+body > header {
   display: none;
 }
 
