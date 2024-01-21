@@ -1,9 +1,10 @@
 ---
 ---
 
-/* @import "{{ site.theme }}"; */
+@import "{{ site.theme }}";
 
 /*! ponle salsa chingado pinchi taquero */
 header .page-header {
   display: none;
 }
+
