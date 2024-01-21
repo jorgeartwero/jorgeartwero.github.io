@@ -3,11 +3,11 @@ el veloz Arte del habilidoso Wifi; esfuerzos digitécnicos de un empresaurio con
 
 ![La típica foto que JorgeArtwero usa en todos lados, en un plato rojo está un pastel verde-jungla con temática de pacman para las decoraciones comestibles arregladas en círculo\: ahí está el famoso personaje amarillo con ojos verde-jungla, volteado de cabeza en la parte superior derecha lo cual lo hace parecer que desafía la gravedad, porue el centro del pastel supone ser el cielo, y hay dos fantasmas\: Blinky\(rojo\) y Clyde\(naranja\), el rojo abajo encarando a la derecha y el naranja a la izquierda encarando hacia abajo, cada personaje separado por 5 bolitas blancas, la que está enmedio es una grande deliciosa en cada caso. En este caso servido en un plato redondo rojo porque esto es México cabrones y la combinación de colores resulta perfecta. ](https://raw.githubusercontent.com/jorgeartwero/jorgeartwero.github.io/main/bienes/imagenes/jorgeartwero-pastel_pacman-estrecho-volteado_arra-cuadro_1794px.png)
 
-## Hola, qué rayos estás haciendo aquí? :sweat_smile:
+## Hola, ¿qué rayos estás haciendo aquí? :sweat_smile:
 
-Por favor visita uno de nuestras páginas de negocios en lugar de leer mi presuntuosa biografía.
+Por favor visita una de nuestras páginas de negocios en lugar de leer mi presuntuosa biografía.
 
-- Visita [Çervantecs](https://cervantecs.github.io) si no te importa cero los servidores, el código, la programación, pero aún así te encuentras queriendo hacer una app, sitio web, o similar. ¡Lo hacemos por ti!
+- Visita [Çervantecs](https://cervantecs.github.io) si te importa una espatosa equis los servidores, el código, la programación, pero aún así te encuentras queriendo hacer una app, sitio web, o similar. ¡Lo hacemos por ti!
 - Visita [Sangría Vital](https://sangriavital.github.io) para todos tus proyectos que necesitan Diseño para ya sea tener… ya sabes… justo los lindos visuales de marca… O! tal vez tienes un amplio entendimiento de lo que el diseño significa, y quieres todas las integraciones y planeaciones que vienen de diseñar tus proyectos antes de hacer inversiones y arrojar despliegues porque diseñar te ayudará a evitar perder dinero por errores cometidos por la falta de diseño.
 - Visita [Despacho Creativo](https://despachcreativo.github.io) cuando tus ambiciones han crecido en complejidad y tus necesidades se han vuelto complicadas.
 
@@ -15,12 +15,12 @@ Por favor visita uno de nuestras páginas de negocios en lugar de leer mi presun
 | :--- | :--- | :--- |
 | Çervantecs | Sangría Vital | Despacho Creativo |
 | software caliad poética | estudio de diseñadores | consultoría de negocios y gestión de proyectos |
-| \*\(sístemas de cómputo, web, y apps) | \*\(marcas, web, apps, 3D, arq., ind. y más) | \*\(retos urbanos, campañas, expansiones) |
+| \*\(sístemas de cómputo, web, y apps) | \*\(marcas, web, apps, 3D, arq., inge. ind. y más) | \*\(retos urbanos, campañas, expansiones) |
 
 <br/>
 <br/>
 <br/>
 
-| ![Ilustración cuadriculada abstracta de la típica foto del pastel pacman de JorgeArtwero, con marco rojo representando el plato. Margen y proporciones de cuadros hechas a propósito específicamente para empatar las imágenes aleatorias auto-generadas de Github asignadas a cualquier usuario y organización como un regalo para perfil_id.](https://raw.githubusercontent.com/jorgeartwero/jorgeartwero.github.io/main/bienes/imagenes/jorgeartwero-pastel_pacman-icono_abstracto-400px.png) | ¿Buscas ser social? Aquí están mis ligas<br/>porfavor manténgase… ahem!… sociable.<br/>[:bird:Twixter](https://twitter.com/JorgeArtwero) [:card_index_dividers:LinkedIn](https://linkedin.com/in/jorgeartware/?locale=es_ES)<br/> [:octocat:Github](https://github.com/jorgeartwero) [:scroll:Wordpress](https://jorgeartwero.wordpress.com)<br/><br/><br/><br/><br/><br/><br/>Por ahí nos vemos.<br/>No olvide dar propinas a meseros y gracias pa todos los dev-fines.|
+| ![Ilustración cuadriculada abstracta de la típica foto del pastel pacman de JorgeArtwero, con marco rojo representando el plato. Margen y proporciones de cuadros hechas a propósito específicamente para empatar las imágenes aleatorias auto-generadas de Github asignadas a cualquier usuario y organización como un regalo para perfil_id.](https://raw.githubusercontent.com/jorgeartwero/jorgeartwero.github.io/main/bienes/imagenes/jorgeartwero-pastel_pacman-icono_abstracto-400px.png) | ¿Buscas ser social? Aquí están mis ligas<br/>porfavor manténgase… ahem!… sociable.<br/>[:bird:Twixter](https://twitter.com/JorgeArtwero) [:card_index_dividers:LinkedIn](https://linkedin.com/in/jorgeartware/?locale=es_ES)<br/> [:octocat:Github](https://github.com/jorgeartwero) [:scroll:Wordpress](https://jorgeartwero.wordpress.com)<br/><br/><br/><br/><br/><br/><br/><br/>Por ahí nos vemos.<br/>No olvide dar propinas a meseros<br/>y gracias pa todos los dev-fines.|
 | :--- | :--- |
 | Jorge Arturo Gómez Retamoza (198x-MMxxiii&∞). | Todos los derechos reservados. |
