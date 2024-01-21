@@ -3,3 +3,4 @@ plugins:
 - jemoji
 sass:
     sass_dir: 'bienes/cse/'
+    style: expanded
