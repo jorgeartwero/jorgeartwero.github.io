@@ -1,6 +1,58 @@
+# ¡Bienvenido a Jekyll!
+#
+# Este archivo config está hecho para ajustes que afectan todo tu blog, valores
+# que se espera que tú ajustes una vez y rara vez edites después. Si te encuentras
+# editando este archivo muy seguido, considera usar la característica Jekyll
+# de archivos data para la data que necesites arrifechar frecuentemente.
+#
+# Por razones técnicas, este archivo *NO* se recarga automáticamente cuando usas
+# 'bundle exec jekyll serve'. Si cambias este archivo, porfavor reinicia el proceso del servidor.
+#
+# Si necesitas ayuda con sintaxis YAML, aquí hay unas referencias rápidas para ti:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Ajustes de sitio
+# Estos se usan para personalizar tu sitio nuevo. Si te fijas en los archivos HTML
+# los verás accesados via {{ site.title }}, {{ site.email }}, y así sucesivamente.
+# Puedes cincelar cualquier variable moldeada que quieras, y estarán accesibles
+# en las plantillas via {{ site.myvariable }}.
+
+title: "el veloz Arte del habilidoso Wifi"
+email: pro@jorgeartware.com
+description: >- # esto significa ignorar ‘newlines’ hasta que “baseurl:”
+  esfuerzos digitécnicos de un empresaurio con mentalidad de entrega.
+baseurl: "" # la subruta de tu sitio, p.ej. /blog
+url: "" # el nombre huésped base y protocolo para tu sitio, p.ej. http://ejemplo.com
+twitter_username: jorgeartwero
+github_username:  jorgeartwero
+
+# Ajustes de montaje
 theme: jekyll-theme-cayman
 plugins:
-- jemoji
+  - github-pages
+  - jekyll-feed
+  - jemoji
+
 sass:
-    sass_dir: 'bienes/cse/'
-    style: expanded
+    sass_dir: bienes/cs
+
+# Excluir del proceso.
+# Los siguientes artículos no serán procesados, por defacto.
+# Cualquier elemento enlistado bajo la llave `exclude:` aquí será automáticamente
+# añadido a la "default list" interna.
+#
+# Cosas excluidas pueden ser procesadas enlistando explícitamente los directorios o
+# las matrículas de sus rutas de archivo en la lista `include:`
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

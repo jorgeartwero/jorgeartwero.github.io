@@ -110,3 +110,14 @@ xcuserdata/
 
 # Fin de https://www.toptal.com/developers/gitignore/api/linux,macos,windows,xcode,git
 # Gracias TOPTALES!
+
+### Jekyll bundler “parche” [en lugar de parchar, como que… bundler remplazó la mensa cosa entera y tuve que restaurar mi anterior gitignóralo] ###
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+### Otros ###
+.env
