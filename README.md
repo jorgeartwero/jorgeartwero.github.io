@@ -1,5 +1,5 @@
-# jorgeartwero.github.io
-el veloz Arte del habilidoso Wifi; esfuerzos digitécnicos de un empresaurio con mentalidad de entrega
+# el veloz Arte del habilidoso Wifi
+esfuerzos digitécnicos de un empresaurio con mentalidad de entrega.
 
 ![La típica foto que JorgeArtwero usa en todos lados, en un plato rojo está un pastel verde-jungla con temática de pacman para las decoraciones comestibles arregladas en círculo\: ahí está el famoso personaje amarillo con ojos verde-jungla, volteado de cabeza en la parte superior derecha lo cual lo hace parecer que desafía la gravedad, porue el centro del pastel supone ser el cielo, y hay dos fantasmas\: Blinky\(rojo\) y Clyde\(naranja\), el rojo abajo encarando a la derecha y el naranja a la izquierda encarando hacia abajo, cada personaje separado por 5 bolitas blancas, la que está enmedio es una grande deliciosa en cada caso. En este caso servido en un plato redondo rojo porque esto es México cabrones y la combinación de colores resulta perfecta. ](https://raw.githubusercontent.com/jorgeartwero/jorgeartwero.github.io/main/bienes/imagenes/jorgeartwero-pastel_pacman-estrecho-volteado_arra-cuadro_1794px.png)
 
