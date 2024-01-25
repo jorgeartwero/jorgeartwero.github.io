@@ -1,13 +1,14 @@
 ---
 ---
-
-@import "{{ site.theme }}";
+@import 'jekyll-theme-cayman';
+/* @import "{{ site.theme }}"; */
 
 /*! ponle salsa chingado pinchi taquero */
 body > header {
   display: none;
 }
 
+/*! ponle salsa chingado pinchi taquero 2 */
 .page-header {
   display: none;
 }

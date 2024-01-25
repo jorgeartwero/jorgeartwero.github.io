@@ -19,7 +19,7 @@
 # en las plantillas via {{ site.myvariable }}.
 
 title: "el veloz Arte del habilidoso Wifi"
-email: pro@jorgeartware.com
+email: wero@jorgeartware.com
 description: >- # esto significa ignorar ‘newlines’ hasta que “baseurl:”
   esfuerzos digitécnicos de un empresaurio con mentalidad de entrega.
 baseurl: "" # la subruta de tu sitio, p.ej. /blog
@@ -35,7 +35,7 @@ plugins:
   - jemoji
 
 sass:
-    sass_dir: bienes/cs
+    sass_dir: bienes/cse
 
 # Excluir del proceso.
 # Los siguientes artículos no serán procesados, por defacto.

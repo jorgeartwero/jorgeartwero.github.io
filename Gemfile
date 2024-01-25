@@ -17,6 +17,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jemoji', '~> 0.12.0'
+  gem 'dotenv', '~> 2.8', '>= 2.8.1', groups: [:development, :test]
 end
 
 # Windows y JRuby no incluyen archivos zoneinfo, así que alpaca la gema
